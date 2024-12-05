@@ -1,5 +1,5 @@
 package com.mycompany.basicjava;
-public class Assignment_Operator {
+public class Java_Assignment_Operator {
     
     
     public static void main(String[] args){
